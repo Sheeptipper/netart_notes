@@ -1,0 +1,18 @@
+.red-fantasy {
+    color: red;
+    font-family: fantasy;
+}
+
+a {
+    color:green;
+    text-decoration:none;
+}
+/*this is a comment*/
+a:hover {
+    color:purple;
+    cursor: crosshair;
+}
+
+#top {
+    background-color:#ccc;
+}
